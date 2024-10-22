@@ -88,3 +88,7 @@ venv/*
 
 # Mypy cache
 .mypy_cache/
+
+#My virtual env created the tuesday 22th of october
+synth-env/
+
